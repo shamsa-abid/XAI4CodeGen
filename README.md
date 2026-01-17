@@ -23,48 +23,53 @@ They are provided to enhance **transparency, reproducibility, and reuse**.
 
 ### 🔍 Systematic Literature Review (SLR)
 
-- **`search/search_strings.md`**  
+- **`slr search/SLR search strings.pdf`**  
   Contains the complete search queries used for the systematic literature review, including the use of wildcard operators (e.g., `explain*`, `interpret*`) to ensure comprehensive coverage.
 
-- **`data-extraction/data_extraction_workbook.xlsx`**  
+- **`data extraction/Papers Data Extraction Template and Results.xlsx`**  
   An Excel workbook containing:
   - The data extraction template used in the review
   - Extracted data for the ten selected primary studies
-  - Mapping between papers and the explainability concerns they address
-
+  
 ---
 
 ### 🤖 LLM-Assisted Requirements Elicitation
 
-- **`prompts/llm_elicitation_prompts.md`**  
+- **`prompts and responses/prompts 1 and 2.pdf`**  
   Includes the prompts used with the ChatGPT web interface (GPT-4–class model) to elicit explainability requirements and questions for:
   - Code generation model users
   - Code generation model engineers
 
-These prompts were used to generate initial requirement sets that were later refined and validated.
+These prompts were used to generate initial requirement sets that were later validated in our user survey.
 
 ---
 
 ### ❓ Explainability Question Banks
 
-- **`question-banks/XAIQB_original_vs_customized.pdf`**  
+- **`question-banks/XAIQB_OriginalQuestions_SideBySIde_WithCustomizedQuestions.pdf`**  
   A side-by-side comparison of:
-  - An existing explainability question bank for code generation models
-  - The customized and extended question banks developed in this study
+  - An existing explainability question bank for general AI models
+  - The customized question bank developed in this study
 
 This document highlights how stakeholder-driven questions extend beyond existing formulations.
 
 ---
 
-### 📊 Stakeholder Validation Survey
+### 📊 Stakeholder Survey
 
-- **`survey/survey_instrument.pdf`**  
-  The survey instrument used to validate the relevance of:
-  - Model user requirements
-  - Model engineer requirements
-  - Explainability questions
+- **`survey/survey 1.pdf`**  
+- **`survey/survey 2.pdf`** 
+  The survey instruments used to validate the relevance of:
+  - Model user requirements (Survey 1)
+  - Model engineer requirements (Survey 1)
+  - Extended XAI4CodeGen Question Bank (Survey 1)
+  - Customized explainability questions for XAI4CodeGen (Survey 2)
 
-Survey responses informed the prioritization and gap analysis reported in the paper.
+Survey responses validated the alignment of ChatGPT-elicited explainability requirements for code generation models with actual model users and model engineers.
+
+Survey results can be found
+- **`survey/Survey 1 results.xlsx`**  
+- **`survey/Survey 2 results.xlsx`** 
 
 ---
 
@@ -88,7 +93,7 @@ These factors are discussed as part of the **threats to validity** in the paper.
 
 ## 📜 License
 
-This repository is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+This repository is released under the **MIT** license.  
 You are free to reuse the materials with appropriate attribution.
 
 ---
