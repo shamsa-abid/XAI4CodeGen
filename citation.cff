@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite our paper listed below."
 title: "User-Centered Explainability Requirements for Code Generation Models"
-type: software
-
+type: data
 authors:
   - family-names: Abid
     given-names: Shamsa
@@ -15,41 +14,5 @@ authors:
     given-names: Lingxiao
   - family-names: Shamail
     given-names: Shafay
-
-
-repository-code: https://github.com/shamsa-abid/XAI4CodeGen
+date-released: 2026-1-18
 url: https://github.com/shamsa-abid/XAI4CodeGen.git
-
-abstract: >
-  This repository contains the supplementary material for a systematic
-  literature review on explainable AI for code generation. It includes
-  search strings, prompting artifacts, customized and extended XAI question bank for code generation, survey artifacts, and the full data extraction workbook for the selected primary studies.
-
-keywords:
-  - Explainable AI
-  - Code Generation
-  - Model Interpretability
-  - User-Centered Explainability
-  - Human Factors
-  - User Study
-  - Systematic Literature Review
-
-license: MIT
-
-preferred-citation:
-  type: article
-  title: "User-Centered Explainability Requirements for Code Generation Models"
- authors:
-  - family-names: Abid
-    given-names: Shamsa
-  - family-names: Cai
-    given-names: Xuemeng
-  - family-names: Ahmad
-    given-names: Mubashra
-  - family-names: Jiang	
-    given-names: Lingxiao
-  - family-names: Shamail
-    given-names: Shafay
-  journal: "ACM Transactions on Software Engineering and Methodology"
-  year: 2026
-  doi: 10.1145/XXXXXXX
