@@ -12,17 +12,15 @@ The goal is to support **traceability, transparency, and reproducibility**.
 
 | Paper Section / Element | Artifact | Description |
 |------------------------|----------|-------------|
-| Research Methodology | `README.md` | High-level overview of artifacts and methodology |
-| Systematic Literature Review (SLR) | `search/search_strings.md` | Complete search strings used in the SLR |
-| SLR Data Extraction | `data-extraction/data_extraction_workbook.xlsx` | Data extraction template and extracted data |
-| Primary Studies (P1–P10) | `data-extraction/data_extraction_workbook.xlsx` | Metadata and extracted evidence from selected papers |
-| Requirements Elicitation Method | `prompts/llm_elicitation_prompts.md` | Prompts used for LLM-assisted elicitation |
-| Model User Requirements | `survey/survey_instrument.pdf` | Survey questions validating user requirements |
-| Model Engineer Requirements | `survey/survey_instrument.pdf` | Survey questions validating engineer requirements |
-| Customized Explainability Question Bank | `question-banks/XAIQB_original_vs_customized.pdf` | Customized questions derived in this study |
-| Extended XAI4CodeGen Question Bank | `question-banks/XAIQB_original_vs_customized.pdf` | Original and extended question sets |
-| Gap Analysis Tables | `data-extraction/data_extraction_workbook.xlsx` | Mapping of requirements/questions to existing literature |
-| Results (Coverage Percentages) | `data-extraction/data_extraction_workbook.xlsx` | Counts and percentages used in results |
+| Systematic Literature Review (SLR) | `slr search/SLR search strings.pdf` | Complete search strings used in the SLR |
+| SLR Data Extraction | `data extraction/Papers Data Extraction Template and Results.xlsx` | Data extraction template and extracted data |
+| Primary Studies (P1–P10) | `data extraction/Papers Data Extraction Template and Results.xlsx` | Metadata and extracted evidence from selected papers |
+| Requirements Elicitation Method |  `prompts and responses/prompts 1 and 2.pdf` | Prompts used for LLM-assisted elicitation |
+| Model User Requirements Validation | `survey/survey 1.pdf` | Survey questions validating user requirements |
+| Model Engineer Requirements Validation| `survey/survey 1.pdf` | Survey questions validating engineer requirements |
+| Customized Explainability Question Bank | `question-banks/XAIQB_OriginalQuestions_SideBySIde_WithCustomizedQuestions.pdf` `survey/survey 2.pdf`| 51 Customized questions derived in this study |
+| Extended XAI4CodeGen Question Bank | `survey/survey 1.pdf` | 26 new questions generated to extend existing Question Bank |
+| Survey Results| `survey/Survey 1 results.xlsx` `survey/Survey 2 results.xlsx` | Relevance Rating used in survey results |
 | Threats to Validity | `README.md` | Notes on LLM usage and reproducibility limitations |
 
 ---
