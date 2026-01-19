@@ -18,8 +18,8 @@ The goal is to support **traceability, transparency, and reproducibility**.
 | Requirements Elicitation Method |  `prompts and responses/prompts 1 and 2.pdf` | Prompts used for LLM-assisted elicitation |
 | Model User Requirements Validation | `survey/survey 1.pdf` | Survey questions validating user requirements |
 | Model Engineer Requirements Validation| `survey/survey 1.pdf` | Survey questions validating engineer requirements |
-| Customized Explainability Question Bank | `question-banks/XAIQB_OriginalQuestions_SideBySIde_WithCustomizedQuestions.pdf` `survey/survey 2.pdf`| 51 Customized questions derived in this study |
-| Extended XAI4CodeGen Question Bank | `survey/survey 1.pdf` | 26 new questions generated to extend existing Question Bank |
+| Customized Explainability Question Bank | `question-banks/CustomizedXAI4CodeGen Question Bank.xlsx`| 51 Customized questions derived in this study |
+| Extended XAI4CodeGen Question Bank | `question-banks/ExtendedXAI4CodeGen Question Bank.xlsx` | 26 new questions generated to extend existing Question Bank |
 | Survey Results| `survey/Survey 1 results.xlsx` `survey/Survey 2 results.xlsx` | Relevance Rating used in survey results |
 | Threats to Validity | `README.md` | Notes on LLM usage and reproducibility limitations |
 
