@@ -1,0 +1,12 @@
+Prompt 1.0
+Imagine you are a software developer and using a code generation AI model trained on source code. Apart from providing code, what kind of explanation would you like the AI code generator to provide? 
+
+Prompt 2.0
+Now imagine you are a model engineer and creating an AI based code generation model. What kind of model interpretation would you like and how can it benefit you?
+
+Prompt 3.0
+You will be given a set of XAI questions from the XAI Question Bank related to <global model-wide questions>. You are required to customize the questions for model users and engineers needs of XAI for Neural Network based code generation models trained on source code. Following is the list of XAI questions:<>
+
+Prompt 4.0
+You will be given an input list of exemplar user questions regarding the types of explainability needs various users have for GenAI models for code.  The exemplar questions are grouped into and assigned the following XAI categories: Input, Output, Performance, Data, How (global), Why/Why NOT, How to, What if, Control, System Requirements and Impact, and Limitations. Imagine that you are a code generation model user or model engineer. You are required to expand the question bank by adding more relevant  concerns or requirements against each category. You are then required to output the Serial Number, XAI Category, Old and New Exemplar Questions, and Concern Category. Here is the input list: < >
+
