@@ -15,7 +15,7 @@ The goal is to support **traceability, transparency, and reproducibility**.
 | Systematic Literature Review (SLR) | `slr search/SLR search strings.pdf` | Complete search strings used in the SLR |
 | SLR Data Extraction | `data extraction/Papers Data Extraction Template and Results.xlsx` | Data extraction template and extracted data |
 | Primary Studies (P1–P10) | `data extraction/Papers Data Extraction Template and Results.xlsx` | Metadata and extracted evidence from selected papers |
-| Requirements Elicitation Method |  `prompts and responses/prompts 1 and 2.pdf` | Prompts used for LLM-assisted elicitation |
+| Requirements Elicitation Method |  `prompts and responses/prompts and responses 1 and 2.pdf` `prompts and responses/prompts 1.0 2.0 3.0 4.0.txt` | Prompts used for LLM-assisted elicitation |
 | Model User Requirements Validation | `survey/survey 1.pdf` | Survey questions validating user requirements |
 | Model Engineer Requirements Validation| `survey/survey 1.pdf` | Survey questions validating engineer requirements |
 | Customized Explainability Question Bank | `question-banks/CustomizedXAI4CodeGen Question Bank.xlsx`| 51 Customized questions derived in this study |
